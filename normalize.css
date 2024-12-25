@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+    list-style-type: none;
+    box-sizing: border-box;
+    transition: .3s ease;
+}
+
+:root {
+    --but-color: #ffc800;
+}
+
+
+a {
+    text-decoration: none;
+}
